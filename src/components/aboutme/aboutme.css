@@ -1,0 +1,51 @@
+.aboutme_page {
+  margin-top: 100px;
+}
+
+.socials_icons a {
+  text-decoration: none;
+  font-size: 30px;
+  margin-right: 35px;
+}
+
+.socials_icons a:hover {
+  color: black;
+}
+.aboutme_page h1 {
+  opacity: 1;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.aboutme_page p {
+  color: black;
+  font-size: 20px;
+  width: 60vw;
+}
+
+.skills {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills .skill-i {
+  height: 50px;
+  width: 250px;
+  margin-bottom: 35px;
+  margin-right: 10px;
+  /* background-color: rgb(155, 71, 71); */
+  display: flex;
+  align-items: center;
+}
+
+.skills .skill-i img {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+
+.skills .skill-i p {
+  margin-bottom: 0;
+  font-size: 26px;
+  font-weight: 400;
+}

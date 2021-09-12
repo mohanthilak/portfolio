@@ -1,0 +1,10 @@
+.navbar-border {
+  border-bottom: 1px solid lightblue;
+}
+.navbar-brand {
+  font: 20px;
+  opacity: 1;
+}
+.nav-link {
+  font-size: 18px;
+}

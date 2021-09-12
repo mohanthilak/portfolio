@@ -1,0 +1,34 @@
+.projects_page {
+  margin-top: 100px;
+}
+a {
+  text-decoration: none;
+}
+
+.projects_page .heading_h2 {
+  margin-bottom: 40px;
+}
+
+.project h4 {
+  margin-bottom: 0;
+}
+
+.project {
+  margin-bottom: 40px;
+}
+
+.date {
+  color: grey;
+}
+
+.project a {
+  color: black;
+}
+p {
+  font-size: larger;
+  margin-bottom: 5px;
+}
+
+ul li {
+  font-size: 16px;
+}
