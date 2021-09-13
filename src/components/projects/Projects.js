@@ -16,8 +16,9 @@ export default function Projects() {
             <FontAwesomeIcon icon={faGithub} />
           </a>
           <p>
-            A web app where you can upload the Question(MCQ only for now) and
-            let people vote your answer.
+            A web app where you can upload Questions(MCQ only for now) and let
+            people vote answers. Questions are not repeated in a portal, OCR
+            reads the question before uploading, hence preventing spam.
           </p>
           <ul className="tech_specs">
             <li>Built with NodeJS, Express JS and MongoDB.</li>
@@ -49,15 +50,15 @@ export default function Projects() {
             (backend)
           </a>
           <p>
-            A web app where you can take quizzes on your favourite anime and
-            also chat with friends.
+            A web app where you can take quizzes on your favorite anime and
+            also, chat with friends.
           </p>
           <ul className="tech_specs">
             <li>Built with React, NodeJS, Express JS and MongoDB.</li>
             <li>
-              Used cloudinary to store profile pic, multer for uploading photes,
-              Socket.io for real time Duplex communication between server and
-              client.
+              Used cloudinary to store profile picture, multer for uploading
+              photes, Socket.io for real time Duplex communication between
+              server and client.
             </li>
             <li>Passport JS for auth</li>
           </ul>
@@ -68,12 +69,10 @@ export default function Projects() {
           <a href="https://github.com/mohanthilak/SomeGeekk" className="github">
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <p>
-            A web app where you can upload the blogs and show it to everyone.
-          </p>
+          <p>A web app where you can write blogs and show it to everyone.</p>
           <ul className="tech_specs">
             <li>Built with NodeJS, React JS and JSON-Server.</li>
-            <li>made a temporary database using JSON Server.</li>
+            <li>Made a temporary database using JSON Server.</li>
             <li>NOTE: learnt from a tutorial.</li>
           </ul>
         </div>

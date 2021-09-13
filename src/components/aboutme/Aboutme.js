@@ -12,12 +12,12 @@ export default function Aboutme() {
       <h1>Hey There! 👋</h1>
       <p>
         My name is Mohan Thilak, I am a junior Web-Developer from India. I
-        started out my coding journey with Web-Dev and haven't hated even once.
+        started my coding journey with Web-Dev and haven't hated it even once.
       </p>
       <p>
         I like learning new technologies and building smarter and faster
         products. I like working with people and would love to build amazing
-        stuff with like minded people!
+        stuff with like-minded people!
       </p>
 
       <div className="socials_icons">

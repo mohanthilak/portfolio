@@ -14,8 +14,9 @@ export default function Interests() {
 
       <p className="mb-5">
         Currently working towards learning new technologies like TypeScript,
-        GraphQL and Devops. <br /> Would like to participate in hackathones and
-        other community driven tasks!
+        GraphQL, and DevOps. <br />
+        Would like to participate in hackathons and other community-driven
+        tasks!
       </p>
       <div className="socials_icons d-flex justify-content-center mt-5">
         <a href="https://github.com/mohanthilak" className="github">
