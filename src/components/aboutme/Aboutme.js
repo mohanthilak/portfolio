@@ -15,7 +15,7 @@ export default function Aboutme() {
         started out my coding journey with Web-Dev and haven't hated even once.
       </p>
       <p>
-        I like learning new technologies and building smater and faster
+        I like learning new technologies and building smarter and faster
         products. I like working with people and would love to build amazing
         stuff with like minded people!
       </p>
