@@ -3,7 +3,7 @@ import React from "react";
 export default function Education() {
   return (
     <div className="education_section" style={{ marginTop: "100px" }}>
-      <h1 style={{ marginBottom: "24px" }}>Education</h1>
+      <h1 style={{ marginBottom: "40px" }}>Education</h1>
       <p style={{ fontSize: "20px" }}>
         <strong>Bachelor's Degree in Computer Science &amp; Engineering</strong>
       </p>
