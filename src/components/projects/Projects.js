@@ -57,7 +57,7 @@ export default function Projects() {
             <li>Built with React, NodeJS, Express JS and MongoDB.</li>
             <li>
               Used cloudinary to store profile picture, multer for uploading
-              photes, Socket.io for real time Duplex communication between
+              photos, Socket.io for real time Duplex communication between
               server and client.
             </li>
             <li>Passport JS for auth</li>
