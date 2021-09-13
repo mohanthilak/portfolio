@@ -10,7 +10,7 @@ import {
 export default function Interests() {
   return (
     <div className="interest_pages">
-      <h2 className="interest_heading">Interest</h2>
+      <h1 className="interest_heading">Interest</h1>
 
       <p className="mb-5">
         Currently working towards learning new technologies like TypeScript,

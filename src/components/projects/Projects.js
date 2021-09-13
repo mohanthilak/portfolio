@@ -6,7 +6,7 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 export default function Projects() {
   return (
     <div className="projects_page">
-      <h2 className="heading_h2">Projects 💻</h2>
+      <h1 className="heading_h2">Projects 💻</h1>
 
       <div className="projects_div">
         <div className="project">

@@ -4,7 +4,7 @@ import "./skill.css";
 export default function Skill() {
   return (
     <div className="skill-page">
-      <h2>Skills 🎯</h2>
+      <h1>Skills 🎯</h1>
       <div className="skills">
         <div className="skill-i">
           <img
