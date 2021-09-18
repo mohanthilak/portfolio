@@ -28,7 +28,7 @@ export default function Interests() {
         >
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
-        <a href="MohanThilak4" className="twitter">
+        <a href="https://twitter.com/MohanThilak4" className="twitter">
           <FontAwesomeIcon icon={faTwitterSquare} />
         </a>
       </div>
