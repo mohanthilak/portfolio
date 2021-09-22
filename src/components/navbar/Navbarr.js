@@ -14,7 +14,6 @@ export default function Navbarr() {
               <Nav.Link href="https://drive.google.com/file/d/1cwObN1I-chi6jWKErgRz8mLJOS-iIEgS/view?usp=sharing">
                 RESUME
               </Nav.Link>
-              {/* <Nav.Link href="#">MODE</Nav.Link> */}
             </Nav>
           </Navbar.Collapse>
         </Container>
