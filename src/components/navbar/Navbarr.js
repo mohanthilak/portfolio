@@ -11,7 +11,7 @@ export default function Navbarr() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="https://drive.google.com/file/d/1Rg0-xDiWxMzk0_STBhHBNvT_7bOi5Eah/view?usp=sharing">
+              <Nav.Link href="https://drive.google.com/file/d/1ZPJW5JN5EH9I_sbyXgaIyO0v0zr9ihlh/view?usp=sharing">
                 RESUME
               </Nav.Link>
             </Nav>
