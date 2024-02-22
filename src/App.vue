@@ -4,10 +4,13 @@ import RightComponent from './components/RightComponent.vue';
 </script>
 
 <template>
+  <main>
   <div class="main-component-container">
+
     <LeftComponent /> 
     <RightComponent />
   </div>
+</main>
 </template>
 
 <style scoped>
